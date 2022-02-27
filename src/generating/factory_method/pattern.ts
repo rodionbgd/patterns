@@ -1,4 +1,4 @@
-export type Vehicle = {
+type Vehicle = {
   doors: number;
   state: string;
   color: string;
