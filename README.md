@@ -70,6 +70,8 @@
             <p align="center">Facade</p>
         </a>
     </td>
+  </tr>
+  <tr> 
     <td> 
         <a href="src/structural/flyweight">
             <img src="./images/structural/flyweight.png"  alt="flyweight" width = 120 height = 120>
