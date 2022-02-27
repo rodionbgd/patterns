@@ -1,4 +1,4 @@
-#The most often-used OOP design patterns
+# The most often-used OOP design patterns
 
 ### Generating patterns
 <table>
@@ -15,8 +15,6 @@
             <p align="center">Abstract factory</p>
         </a>
     </td>
-  </tr> 
-  <tr>
     <td> 
         <a href="src/generating/builder">
             <img src="./images/generating/builder.png"  alt="builder" width = 120 height = 120>
@@ -29,13 +27,11 @@
             <p align="center">Prototype</p>
         </a>
     </td>
-  </tr>
-  <tr>
     <td> 
         <a href="src/generating/singleton">
             <img src="./images/generating/singleton.png"  alt="singleton" width = 120 height = 120>
             <p align="center">Singleton</p>
         </a>
     </td>
-  </tr>
+  </tr> 
 </table>
