@@ -35,6 +35,7 @@ module.exports = {
                 "no-console": "off",
                 "max-classes-per-file": "off",
                 "class-methods-use-this": "off",
+                "@typescript-eslint/no-unused-vars": "off",
             },
         },
     ],
