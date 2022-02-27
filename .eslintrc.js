@@ -11,7 +11,7 @@ module.exports = {
   },
   overrides: [
     {
-      files: ["src/**/*.ts", "src/*.js"],
+      files: ["src/**/*.ts"],
       parser: "@typescript-eslint/parser",
       parserOptions: {
         project: "./tsconfig.json",
@@ -42,7 +42,7 @@ module.exports = {
   settings: {
     "import/resolver": {
       node: {
-        extensions: [".ts", ".js", ".scss"],
+        extensions: [".ts"],
       },
     },
   },
